@@ -1,7 +1,7 @@
-AI undergrad studying how neural networks implement computation in weight space — how they parameterize functions, encode geometry, and organize latent manifolds under constraints of data, optimization, and hardware. I treat architectures as coordinate systems in a broader design space shaped by symmetry, inductive bias, numerics, and compute.
+AI undergrad working at the interface of representation learning, scientific computing, and post-quantum security. I study how neural networks implement computation in weight space — how they encode geometry, structure, and algorithms under constraints of data, optimization, and hardware. Architectures are not endpoints but coordinate systems in a larger design space shaped by symmetry and compute.
 
-I work from first principles: training models from scratch, reproducing baselines until dynamics match, and probing the stack from information theory and cryptography down through CUDA/kernels, up to deployment under real latency–throughput–cost constraints.
+I build from first principles: train models from scratch, reproduce baselines until dynamics match, and probe the stack from information theory and cryptography down through CUDA/kernels, up to distributed deployment under real latency–throughput–cost tradeoffs.
 
-Current focus: architectures that fuse statistical learning with geometry, control, and post-quantum security — systems that generalize beyond interpolation. Long-term interest in unifying representation, generalization, and security under classical and quantum limits.
+Current focus: models that go beyond interpolation by integrating geometry, control, and cryptography. Long-term interest in unifying representation, generalization, and security under both classical and quantum limits.
 
-**Skills:** representation learning, transformers, scientific ML, geometry, cryptosystems, post-quantum primitives, distributed training, CUDA/kernels, cryptanalysis, HPC, inference stacks.
+Mapping the design space of differentiable computation: how architectures encode geometry, algorithms, and security under real constraints.
