@@ -1,7 +1,10 @@
-AI undergrad working at the interface of representation learning, scientific computing, and post-quantum security. I study how neural networks implement computation in weight space — how they encode geometry, structure, and algorithms under constraints of data, optimization, and hardware. Architectures are not endpoints but coordinate systems in a larger design space shaped by symmetry and compute.
+AI undergrad exploring how learned systems represent and manipulate information. I’m interested in the internal mechanics: how neural networks build functions, encode geometry, and implement algorithms in weight space under the practical limits of data, optimization, and hardware. Architectures are coordinates in a broader design space shaped by symmetry, priors, and compute, not endpoints to be celebrated.
 
-I build from first principles: train models from scratch, reproduce baselines until dynamics match, and probe the stack from information theory and cryptography down through CUDA/kernels, up to distributed deployment under real latency–throughput–cost tradeoffs.
+I work bottom-up: train models from scratch, replicate baselines until the curves match, and dissect failure modes across initialization, data pipelines, and kernel execution. The stack matters end-to-end—cryptography and information on top, CUDA and distributed runtimes below, deployment under real latency–throughput–cost constraints at the boundary.
 
-Current focus: models that go beyond interpolation by integrating geometry, control, and cryptography. Long-term interest in unifying representation, generalization, and security under both classical and quantum limits.
+My current work explores models that combine neural representation with geometry, control, and cryptographic structures. Longer term, I’m interested in how notions of representation, generalization, and security interact as we push learning systems toward physical and post-quantum limits.
 
-Mapping the design space of differentiable computation: how architectures encode geometry, algorithms, and security under real constraints.
+**Stack:** python, pytorch, jax, cuda/kernels, mpi/nccl, tensor cores, distributed training, model/data/pipe parallelism, tensorRT/onnx, slurm/k8s, linux, hpc, cloud, profiling & optimization, c/c++, rust, ruby on rails, assembly
+
+**_Reverse-engineering how neural networks compute.
+**_
