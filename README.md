@@ -6,5 +6,5 @@ My current work explores models that combine neural representation with geometry
 
 **Stack:** python, pytorch, jax, cuda/kernels, mpi/nccl, tensor cores, distributed training, model/data/pipe parallelism, tensorRT/onnx, slurm/k8s, linux, hpc, cloud, profiling & optimization, c/c++, rust, ruby on rails, assembly
 
-**_Reverse-engineering how neural networks compute.
-**_
+_Reverse-engineering how neural networks compute.
+_
